@@ -1,0 +1,6 @@
+[submodule "stm32/Drivers/ST7789-STM32"]
+	path = stm32/Drivers/ST7789-STM32
+	url = https://github.com/elliottohmiller/ST7789-STM32.git
+[submodule "stm32/Drivers/lis3dh-pid"]
+	path = stm32/Drivers/lis3dh-pid
+	url = https://github.com/elliottohmiller/lis3dh-pid.git

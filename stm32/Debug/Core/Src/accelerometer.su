@@ -1,0 +1,9 @@
+../Core/Src/accelerometer.c:6:6:LIS3DH_Config	32	static
+../Core/Src/accelerometer.c:23:6:Accelerometer_Init	16	static
+../Core/Src/accelerometer.c:40:6:read_accelerometer_data	16	static
+../Core/Src/accelerometer.c:59:9:SPIx_WriteRead	32	static
+../Core/Src/accelerometer.c:70:9:acc_read	32	static
+../Core/Src/accelerometer.c:100:9:acc_write	24	static
+../Core/Src/accelerometer.c:123:6:platform_delay	16	static
+../Core/Src/accelerometer.c:128:14:calibrate_offset	32	static
+../Core/Src/accelerometer.c:149:6:read_degree_difference	64	static
